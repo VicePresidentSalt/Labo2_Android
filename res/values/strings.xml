@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Labo2_Android</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="nicolas1">OH, NO! NOT THE BEES! NOT THE BEES! AAAAAHHHHH! OH, THEY’RE IN MY EYES! MY EYES! AAAAHHHHH! AAAAAGGHHH!</string>
+    <string name="nicolas2">How, in the name of Zeus’s butthole, did you get out of your cell?</string>
+    <string name="nicolas3">Killing me won’t bring back your god damn honey!</string>
+    <string name="nicolas4">You don’t have a lucky crack pipe?</string>
+    <string name="nicolas5">What’s in the bag? A shark or something?</string>
+    
+    <string name="Duke1">Eat shit and die.</string>
+    <string name="Duke2">I love the smell of bacon in the morning</string>
+    <string name="Duke3">It\'s time to kick ass and chew bubble gum... and I\'m all outta gum</string>
+    <string name="Duke4">I'll rip your head off and shit down your neck</string>
+    <string name="Duke5">My boot, your face; the perfect couple.</string>
+    
+    <string name="terminator1">Hasta la vista, baby!</string>
+    <string name="terminator2">Get To The Choppa</string>
+    <string name="terminator3">If it bleeds, we can kill it.</string>
+    <string name="terminator4">I need your clothes, your boots and your motorcycle.</string>
+    <string name="terminator5">A freeze is coming!</string>
+
+</resources>
